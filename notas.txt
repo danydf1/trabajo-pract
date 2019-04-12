@@ -1,0 +1,70 @@
+alcance del proyecto
+
+dividido por modulos
+
+todos los menus
+pantallas: que pantallas vamos a tener?
+
+
+
+
+carga:
+
+agregar y modificar los datos
+
+filtro por dni
+
+cargar de horas:
+
+debe permitir 
+
+no se necesita historico
+
+la carga de las horas va a ser única
+
+1 freelance, 
+
+todo el programa orientado a 1 mes
+
+dos procesos de carga, individual o masivo
+
+carga masiva, recorrer todo el 
+
+carga individual
+
+3 tipos de freelance: analista, desarrolladores y diseñadores
+
+se puede actualizar las horas
+
+
+listado
+
+hacer un paginado, hay un ejemplo en el aula
+
+configuracion precio
+
+
+
+
+
+modulo configuracion
+modulo freelance
+modulo carga de horas
+reporte listados y busquedas
+ayuda
+
+carlitox.gomez@hotmail.com; daniel.fernandez@alumnos.frgp.utn.edu.ar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
